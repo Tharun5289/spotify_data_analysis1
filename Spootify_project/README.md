@@ -22,7 +22,7 @@ The project uses three CSV files as source data:
 ## 🏗️ Architecture Overview
 
 ### High-Level Architecture
-![High Level Architecture](docs/architecture/high_level_architecture.png)
+![High Level Architecture](https://github.com/Tharun5289/Spotify_data_analsis/blob/main/Spootify_project/docs/architecture/high_level_architecture.png.png)
 
 **Description:**  
 This diagram represents the end-to-end flow of Spotify data from ingestion to analytics using AWS services.
@@ -30,7 +30,7 @@ This diagram represents the end-to-end flow of Spotify data from ingestion to an
 ---
 
 ### AWS Glue Visual ETL Workflow
-![Glue Visual ETL Workflow](docs/architecture/glue_visual_etl_workflow.png)
+![Glue Visual ETL Workflow](https://github.com/Tharun5289/Spotify_data_analsis/blob/main/Spootify_project/docs/architecture/glue_visual_etl_workflow.png.png)
 
 **Description:**  
 This diagram illustrates how data is extracted from Amazon S3, transformed using AWS Glue Visual ETL, and written back to the processed S3 layer.
